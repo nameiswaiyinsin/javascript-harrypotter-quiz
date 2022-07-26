@@ -6,7 +6,6 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #eafffd;
     background: url("../images/harrypotterbackground.jpeg") no-repeat center center fixed;
     background-size: cover;
 }
@@ -115,6 +114,7 @@ div > a {
 .choice-text {
     padding: 1rem;
     width: 100%;
+    color: #9f2e41;
 }
 
 .correct {
@@ -135,6 +135,7 @@ div > a {
 .top-display-prefix {
     text-align: center;
     font-size: 1.5rem;
+    color: #c49d28;
 }
 
 .top-display-main-text {
