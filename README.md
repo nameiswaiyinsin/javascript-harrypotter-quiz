@@ -9,7 +9,7 @@ This Harry Potter quiz is an interactive quiz game where players can test their 
 https://nameiswaiyinsin.github.io/javascript-harrypotter-quiz/
 
 # Repository
-https://github.com/nameiswaiyinsin/sustainlife
+https://github.com/nameiswaiyinsin/javascript-harrypotter-quiz
 
 # Target Audience
 <li>People who enjoy Harry Potter</li>
@@ -17,7 +17,7 @@ https://github.com/nameiswaiyinsin/sustainlife
 <li>People who enjoy quiz games</li>
 
 # Project Objective
-To offer players an enjoyable experience quizzing their Harry Potter knowledge and compete for the highest score. This game contains questions 10 questions for great fun and allows the player to save their score for comparison! It is suitable for anyone who enjoys learning about Harry Potter and being quizzed on it.
+To offer players an enjoyable experience quizzing their Harry Potter knowledge and compete for the highest score. This game contains 10 questions for great fun and allows the player to save their score for comparison! It is suitable for anyone who enjoys learning about Harry Potter and being quizzed on it.
 
 
 # (UX) User Experience
@@ -52,6 +52,28 @@ To offer players an enjoyable experience quizzing their Harry Potter knowledge a
 <li>The font was sourced from Google fonts.</li>
 
 ## Wireframe
+### Desktop
+Home Page
+![Home Page](assets/images/wfdesktophomepage.png)
+
+Game Page
+![Game Page](assets/images/wfdesktopplaypage.png)
+
+End Page
+![End Page](assets/images/wfdesktoptopendpage.png)
+
+High Scores Page
+![High Score Page](assets/images/wfdesktophighscorepage.png)
+
+### Mobile
+Home Page
+
+Game Page
+
+End Page
+
+High Scores Page
+
 View wireframes for both desktop and mobile here - https://docs.google.com/document/d/1CTuUDR21LjMLLncRB6JInjym1l9IlOpUkcklaaiT-nc/edit?usp=sharing
 
 ## Site structure
@@ -108,7 +130,7 @@ Metrics returned:
 <li>There are 7 functions in this file.</li>
 <li>Function with the largest signature take 1 arguments, while the median is 1.</li>
 <li>Largest function has 12 statements in it, while the median is 2.</li>
-<li>The most complex function has a cyclomatic complexity value of 4 while the median is 1.</li>>
+<li>The most complex function has a cyclomatic complexity value of 4 while the median is 1.</li>
 
 #### End Page
 Metrics returned:
@@ -124,7 +146,25 @@ Metrics returned:
 <li>Largest function has 3 statements in it, while the median is 2.</li>
 <li>The most complex function has a cyclomatic complexity value of 2 while the median is 1.5.</li>
 
-### Lighthouse
+## Lighthouse
+### Desktop
+Home Page
+
+Game Page
+
+End Page
+
+High Scores Page
+
+### Mobile
+Home Page
+
+Game Page
+
+End Page
+
+High Scores Page
+
 Great Accesibility & Performance on all pages
 View images and results here - https://docs.google.com/document/d/1CTuUDR21LjMLLncRB6JInjym1l9IlOpUkcklaaiT-nc/edit?usp=sharing
 
