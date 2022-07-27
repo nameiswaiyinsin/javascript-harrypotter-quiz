@@ -12,9 +12,9 @@ https://nameiswaiyinsin.github.io/javascript-harrypotter-quiz/
 https://github.com/nameiswaiyinsin/sustainlife
 
 # Target Audience
-People who enjoy Harry Potter
-People who enjoy getting their knowledge tested
-People who enjoy quiz games
+<li>People who enjoy Harry Potter</li>
+<li>People who enjoy getting their knowledge tested</li>
+<li>People who enjoy quiz games</li>
 
 # Project Objective
 To offer players an enjoyable experience quizzing their Harry Potter knowledge and compete for the highest score. This game contains questions 10 questions for great fun and allows the player to save their score for comparison! It is suitable for anyone who enjoys learning about Harry Potter and being quizzed on it.
@@ -41,9 +41,14 @@ To offer players an enjoyable experience quizzing their Harry Potter knowledge a
 
 # Design
 ## Colour Scheme
-![colour pallette]()
+<li>I chose a minimal colour palette with 2 colours features heavily in Harry Potter to keep within the theme.</li>
+<li> I used https://coolors.co/ to generate my pallete.</li>
+![colour pallette](assets/images/colours.png)
 
 ## Typography
+<li>I chose Roboto, sans-serif as the font as it a very readable font which also looks fiting for the theme of the website. </li>
+<li>Sans-serif is the back-up font if Roboto fails, it is also an easy to read font.</li>
+<li>The font was sourced from Google fonts.</li>
 
 ## Wireframe
 ### Desktop
