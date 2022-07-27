@@ -220,3 +220,4 @@ https://www.beano.com/posts/the-ultimate-harry-potter-quiz
 <li>Background picture was taken from Google Images - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdk1tQH7Jo62z8PgAvrHyuU2Lhkc6zK5ek8g0SL9Cmq8Fj6uIcH2g5Mk1MB3TJHFO18rU&usqp=CAU</li>
 <li>Logo downloaded from Seek Logo - "https://seeklogo.com/vector-logo/65455/harry-potter"</li>
 <li>Responsive Design Mockup Tool - https://techsini.com/multi-mockup/index.php </li>
+<li>Balsamiq was used to create my wireframes</li>
