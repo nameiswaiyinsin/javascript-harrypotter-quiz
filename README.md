@@ -2,6 +2,7 @@
 ## Welcome to the <a href ="https://nameiswaiyinsin.github.io/javascript-harrypotter-quiz/">Harry Potter Quiz</a> README.md !
 
 This Harry Potter quiz is an interactive quiz game where players can test their knowledge about all things Harry Potter! There are 10 questions to answer in the game. If the player answers a question correctly, they will receive 10 points. After completing the game, the user can save their high score and later look back on the top high scores for the game. This game is great fun for users to play and test their knowledge on this epic saga! 
+
 ![responsive designs](/assets/images/responsivedesign.png)
 
 # Live Site
@@ -40,6 +41,7 @@ To offer players an enjoyable experience quizzing their Harry Potter knowledge a
 
 # Design
 ## Colour Scheme
+![colour pallette]()
 
 ## Typography
 
