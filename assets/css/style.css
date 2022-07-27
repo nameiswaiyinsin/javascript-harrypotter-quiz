@@ -194,6 +194,7 @@ input::placeholder {
     list-style: none;
     padding-left: 0;
     margin-bottom: 1.5rem;
+    color: #9f2e41;
 }
 
 .high-score {
