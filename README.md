@@ -57,13 +57,38 @@ To offer players an enjoyable experience quizzing their Harry Potter knowledge a
 ### Mobile 
 
 ## Site structure
-### Start Page
+### Start/Home Page
+Features: 
+<li>A game title along with the logo.</li>
+<li>A play button for the user to start the game.</li>
+<li>A highscores page where the user can see other scores and decide to compete.</li>
+
+![start page or home page](assets/images/startpage.png)
 
 ### Game Page
+Features:
+<li>A question counter (out of 10) on the top right hand corner which indicates the question number the user is on.</li>
+<li>A score counter on the top right hand corner that increases the users score by 10 for each question they answer correctly.</li>
+<li>A question and 4 choices of answers to choose from in the middle. The selected answer will turn red if it is wrong and green if it is correct.</li>
+
+![game page where the quiz questions are displayed](assets/images/playpage.png)
 
 ### End Page
+Features:
+<li>Shows the user their score after completing the game.</li>
+<li>An option for the user to enter their name and save their score and displayed on the leaderboard if the point is high enough.</li>
+<li>The user will not be able to click the save button (to save their score) unless the user inserts a username.
+Once the score is saved they are taken back to the home page.</li>
+<li>A button to allow the user to play the game again.</li>
+<li>A button to take the user back to the home page.</li>
+
+![end page where there is a prompt to enter your username when you finish the game to be displayed on the high score board](assets/images/endpage.png)
 
 ### High Scores Page
+Features:
+<li>A page lists the top scores for the game, limited to showing only the top 5 high scores.</li>
+
+![high score page where all player's scores are displayed](assets/images/highscorepage.png)
 
 # Testing
 
