@@ -1,21 +1,42 @@
 # Harry Potter Quiz - Javascript
 ## Welcome to the <a href ="https://nameiswaiyinsin.github.io/javascript-harrypotter-quiz/">Harry Potter Quiz</a> README.md !
 
+This Harry Potter quiz is an interactive quiz game where players can test their knowledge about all things Harry Potter! There are 10 questions to answer in the game. If the player answers a question correctly, they will receive 10 points. After completing the game, the user can save their high score and later look back on the top high scores for the game. This game is great fun for users to play and test their knowledge on this epic saga! 
 ![responsive designs](/assets/images/responsivedesign.png)
 
-
-
 # Live Site
+https://nameiswaiyinsin.github.io/javascript-harrypotter-quiz/
 
 # Repository
+https://github.com/nameiswaiyinsin/sustainlife
 
 # Target Audience
+People who enjoy Harry Potter
+People who enjoy getting their knowledge tested
+People who enjoy quiz games
 
 # Project Objective
+To offer players an enjoyable experience quizzing their Harry Potter knowledge and compete for the highest score. This game contains questions 10 questions for great fun and allows the player to save their score for comparison! It is suitable for anyone who enjoys learning about Harry Potter and being quizzed on it.
+
 
 # (UX) User Experience
-## User Story
+## Site Owner Goal
+<li>Create an attractive, responsive and intuitively simple to use game for the user.</li>
+<li>I want the site to function properly, loading new questions and incrementing the score as the user progresses. </li>
+<li>Create a game with a varied choice of questions for a better user experience.</li>
+<li>Allow users to save their scores</li>
+<li>Allow users to navigate easily through different pages of the site</li> 
 
+## User Story - First time Visitor Goal
+<li>Ensure an aestheticly designed and easy to read game.</li>
+<li>Ensure the game is responsive to all devices.</li>
+<li>Ensure that the user is able to navigate throughout different pages of the site.</li>
+<li>Ensure a varied choice of questions.</li>
+
+## User Story - Returning Visitor Goal
+<li>Ensure a varied choice of questions each time a user plays.</li>
+<li>Be able to record the user's own score for leaderboard reference.</li>
+<li>Be able to to see other user's previous scores for competition.</li>
 
 # Design
 ## Colour Scheme
