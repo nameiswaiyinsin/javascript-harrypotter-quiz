@@ -1,11 +1,10 @@
 # Harry Potter Quiz - Javascript
 ## Welcome to the <a href ="https://nameiswaiyinsin.github.io/javascript-harrypotter-quiz/">Harry Potter Quiz</a> README.md !
 
-![responsive designs of the quiz game in Desktop, Laptop, Tablet and Mobile view] (https://github.com/nameiswaiyinsin/javascript-harrypotter-quiz/blob/main/assets/images/Responsivedesign.png)
+![responsive designs of the quiz game in Desktop, Laptop, Tablet and Mobile view] 
+![hello](/assets/images/responsivedesign.png)
 
-![img](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-<img src="../images/responsivedesign.png" alt="Alt text" title="Optional title">
 
 # Live Site
 
