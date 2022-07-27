@@ -43,6 +43,7 @@ To offer players an enjoyable experience quizzing their Harry Potter knowledge a
 ## Colour Scheme
 <li>I chose a minimal colour palette with 2 colours features heavily in Harry Potter to keep within the theme.</li>
 <li> I used https://coolors.co/ to generate my pallete.</li>
+
 ![colour pallette](assets/images/colours.png)
 
 ## Typography
