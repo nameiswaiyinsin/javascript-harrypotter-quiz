@@ -159,7 +159,8 @@ Steps to clone this project from GitHub:
 Font was sourced from Google Fonts https://fonts.google.com/
 ## Tutorials
 Javascript Quiz Tutorial - https://www.youtube.com/watch?v=u98ROZjBWy8&t=7s
-
+## Inspiration
+https://github.com/Simiine/climate-quiz
 ## Quiz Questions
 https://www.beano.com/posts/the-ultimate-harry-potter-quiz
 
