@@ -93,13 +93,34 @@ Features:
 # Testing
 
 ## Testing Responsive Design
+I built this website with a mobile-first approach to ensure a responsive design across the site. This made for a smooth transition from small screen to large screen. 
 
 ## Validator Testing
 ### HTML
+![clean html](assets/images/validhtml.png)
 
 ### CSS
+![clean css](assets/images/validcss.png)
 
 ### Javascript
+No errors were found when passing through the official Jshint validator.
+
+#### Game Page
+Metrics returned:
+
+#### End Page
+Metrics returned:
+<li>There are 3 functions in this file.</li>
+<li>Function with the largest signature take 2 arguments, while the median is 1.</li>
+<li>Largest function has 7 statements in it, while the median is 1.</li>
+<li>The most complex function has a cyclomatic complexity value of 1 while the median is 1.</li>
+
+#### High Scores Page
+Metrics returned:
+<li>There are 2 functions in this file.</li>
+<li>Function with the largest signature take 1 arguments, while the median is 0.5.</li>
+<li>Largest function has 3 statements in it, while the median is 2.</li>
+<li>The most complex function has a cyclomatic complexity value of 2 while the median is 1.5.</li>
 
 ### Lighthouse
 ### Desktop
