@@ -54,27 +54,31 @@ To offer players an enjoyable experience quizzing their Harry Potter knowledge a
 ## Wireframe
 ### Desktop
 Home Page
-![Home Page](assets/images/wfdesktophomepage.png)
+![Desktop Home Page](assets/images/wfdesktophomepage.png)
 
 Game Page
-![Game Page](assets/images/wfdesktopplaypage.png)
+![Desktop Game Page](assets/images/wfdesktopplaypage.png)
 
 End Page
-![End Page](assets/images/wfdesktoptopendpage.png)
+![Desktop End Page](assets/images/wfdesktoptopendpage.png)
 
 High Scores Page
-![High Score Page](assets/images/wfdesktophighscorepage.png)
+![Desktop High Score Page](assets/images/wfdesktophighscorepage.png)
 
 ### Mobile
 Home Page
+![Mobile Home Page](assets/images/fwhomepage.png)
 
 Game Page
+![Mobile Game Page](assets/images/fwplaypage.png)
 
 End Page
+![Mobile End Page](assets/images/fwendpage.png)
 
 High Scores Page
+![Mobile High Score Page](assets/images/fwhighscorepage.png)
 
-View wireframes for both desktop and mobile here - https://docs.google.com/document/d/1CTuUDR21LjMLLncRB6JInjym1l9IlOpUkcklaaiT-nc/edit?usp=sharing
+Google Docs Wireframes for both desktop and mobile here - https://docs.google.com/document/d/1CTuUDR21LjMLLncRB6JInjym1l9IlOpUkcklaaiT-nc/edit?usp=sharing
 
 ## Site structure
 ### Start/Home Page
@@ -147,26 +151,34 @@ Metrics returned:
 <li>The most complex function has a cyclomatic complexity value of 2 while the median is 1.5.</li>
 
 ## Lighthouse
+Great Accesibility & Performance on all pages
 ### Desktop
 Home Page
+![Test Desktop Home Page](assets/images/desktophomepage.png)
 
 Game Page
+![Test Desktop Game Page](assets/images/desktopplaypage.png)
 
 End Page
+![Test Desktop End Page](assets/images/desktopendgame.png)
 
 High Scores Page
+![Test Desktop High Score Page](assets/images/desktophighscorepage.png)
 
 ### Mobile
 Home Page
+![Test Mobile Home Page](assets/images/mobilehomepage.png)
 
 Game Page
+![Test Mobile Game Page](assets/images/mobileplaypage.png)
 
 End Page
+![Test Mobile End Page](assets/images/mobileendpage.png)
 
 High Scores Page
+![Test Mobile High Scores Page](assets/images/mobilehighscore.png)
 
-Great Accesibility & Performance on all pages
-View images and results here - https://docs.google.com/document/d/1CTuUDR21LjMLLncRB6JInjym1l9IlOpUkcklaaiT-nc/edit?usp=sharing
+Google Doc Lighthouse result - https://docs.google.com/document/d/1CTuUDR21LjMLLncRB6JInjym1l9IlOpUkcklaaiT-nc/edit?usp=sharing
 
 # Bugs
 
@@ -199,12 +211,12 @@ Steps to clone this project from GitHub:
 Font was sourced from Google Fonts https://fonts.google.com/
 ## Tutorials
 Javascript Quiz Tutorial - https://www.youtube.com/watch?v=u98ROZjBWy8&t=7s
-## Inspiration
+## Code Inspiration
 https://github.com/Simiine/climate-quiz
 ## Quiz Questions
 https://www.beano.com/posts/the-ultimate-harry-potter-quiz
 
 # Media
-<li>Background picture was taken from Google Images - <a>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdk1tQH7Jo62z8PgAvrHyuU2Lhkc6zK5ek8g0SL9Cmq8Fj6uIcH2g5Mk1MB3TJHFO18rU&usqp=CAU</a></li>
-<li>Logo downloaded from Seek Logo - <a>"https://seeklogo.com/vector-logo/65455/harry-potter"</a></li>
-<li>Responsive Design Mockup Tool - <a>https://techsini.com/multi-mockup/index.php</a></li>
+<li>Background picture was taken from Google Images - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdk1tQH7Jo62z8PgAvrHyuU2Lhkc6zK5ek8g0SL9Cmq8Fj6uIcH2g5Mk1MB3TJHFO18rU&usqp=CAU</li>
+<li>Logo downloaded from Seek Logo - "https://seeklogo.com/vector-logo/65455/harry-potter"</li>
+<li>Responsive Design Mockup Tool - https://techsini.com/multi-mockup/index.php </li>
